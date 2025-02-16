@@ -270,7 +270,6 @@ export const metaData = {
                     'name': 'address_tow',
                     'label': 'Address 2',
                     'placeholder': 'Enter the address 2 ( Optional )',
-                    'required': true,
                 },
                 {
                     'component': 'input',
