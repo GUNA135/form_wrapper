@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #013ADF;
+  --color-borderColor: #D7DEE8;
+  --color-placeholderColor: #B5B5B5CC;
+  --color-shadow: #00000014;
+  --color-textPrimary: #000000CC;
+  --color-textSecondary: #6B6B6B;
+  --color-disabledBg: #ccc;
+  --color-disabledText: #666;
+  --color-hoverBg: #D7DEE8;
+  --color-inActiveTabButtonTextColor: #707070;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Manrope", serif;
+}
